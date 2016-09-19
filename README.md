@@ -14,7 +14,7 @@ Add `hyperterm-hipster` to the plugins list in your `~/.hyperterm.js` config fil
 
 
 ## Tip
-To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt and the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
+To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt, [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin, [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin and [Operator Mono](http://www.typography.com/blog/introducing-operator) font.
 
 
 ## License
