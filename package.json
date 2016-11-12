@@ -6,12 +6,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mightyCrow/hyperterm-hipster.git"
+    "url": "git+https://github.com/tiaanduplessis/hyperterm-hipster.git"
   },
   "bugs": {
-    "url": "https://github.com/mightyCrow/hyperterm-hipster/issues"
+    "url": "https://github.com/tiaanduplessis/hyperterm-hipster/issues"
   },
-  "homepage": "https://github.com/mightyCrow/hyperterm-hipster#readme",
+  "homepage": "https://github.com/tiaanduplessis/hyperterm-hipster#readme",
   "author": {
     "name": "Tiaan du Plessis",
     "email": "tiaanduplessis@hotmail.com"
