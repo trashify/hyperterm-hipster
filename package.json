@@ -23,7 +23,7 @@
     "theme"
   ],
   "devDependencies": {
-    "ava": "^0.16.0",
+    "ava": "^0.18.0",
     "babel-core": "^6.11.4",
     "babel-preset-es2015": "^6.14.0",
     "eslint": "^3.5.0",
