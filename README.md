@@ -1,5 +1,5 @@
 <h1 align="center">
-  :neckbeard: hyperterm-hipster :bowtie:
+  hyperterm-hipster
 </h1>
 <br>
 <div align="center">
@@ -36,7 +36,7 @@
 A **hipster** theme based on the [hipster-syntax](https://github.com/Agnostics/hipster-syntax) theme for Atom by [Agnostics](https://github.com/Agnostics).
 
 <p text-align="center">
-  <img src="./screenshot.png"/>
+  <img src="https://raw.githubusercontent.com/tiaanduplessis/hyperterm-hipster/master/screenshot.png"/>
 </p>
 
 ## Install
