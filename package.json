@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-hipster",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hipster HyperTerm theme",
   "main": "index.js",
   "license": "MIT",
@@ -19,30 +19,19 @@
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
+    "hyper",
+    "hyper-theme",
     "hipster",
     "theme"
   ],
   "devDependencies": {
-    "ava": "^0.16.0",
-    "babel-core": "^6.11.4",
-    "babel-preset-es2015": "^6.14.0",
-    "eslint": "^3.5.0",
-    "eslint-config-standard": "^6.0.1",
-    "eslint-plugin-promise": "^3.3.2",
-    "eslint-plugin-standard": "^2.0.0"
+    "ava": "^0.18.2",
+    "standard": "^8.6.0"
   },
   "scripts": {
+    "pretest": "npm run lint",
     "test": "ava",
-    "lint": "eslint --fix index.js lib/*.js"
-  },
-  "babel": {
-    "presets": [
-      "es2015"
-    ]
-  },
-  "ava": {
-    "require": [
-      "babel-core/register"
-    ]
+    "lint": "standard",
+    "lint:fix": "standard --fix"
   }
 }
