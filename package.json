@@ -25,12 +25,12 @@
     "theme"
   ],
   "devDependencies": {
-    "ava": "^0.18.2",
-    "standard": "^8.6.0"
+    "jest": "~20.0.4",
+    "standard": "~10.0.2"
   },
   "scripts": {
     "pretest": "npm run lint",
-    "test": "ava",
+    "test": "jest",
     "lint": "standard",
     "lint:fix": "standard --fix"
   }
